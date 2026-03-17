@@ -15,6 +15,8 @@ I started my career with a degree in English, then taught myself IT — earning 
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 ## What I'm Working On
 
@@ -25,7 +27,7 @@ I started my career with a degree in English, then taught myself IT — earning 
 
 ## Certifications
 
-`RHCE` `CCNP` `PMP` `OCI Certified`
+`RHCE (2012)` `CCNP (2014)` `PMP (2013)` `OCI Certified (2021)`
 
 ## GitHub Stats
 
