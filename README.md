@@ -18,9 +18,10 @@ I started my career with a degree in English, then taught myself IT — earning 
 
 ## What I'm Working On
 
-- Building CLI tools to streamline Oracle Cloud workflows
-- Automating infrastructure with Ansible and Terraform
-- Exploring AI/ML integration for IT operations
+- 🔭 Building predictive analytics and early warning systems for large-scale production Linux environments
+- ☁️ Designing cloud migration frameworks and high-availability architectures on OCI & AWS
+- 🛠️ Developing Python-based automation tooling to reduce operational toil and accelerate incident response
+- 📚 Pursuing AWS Solutions Architect Associate certification
 
 ## Certifications
 
