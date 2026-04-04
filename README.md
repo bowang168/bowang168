@@ -3,9 +3,9 @@
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow?style=flat-square&logo=buy-me-a-coffee)](https://buymeacoffee.com/bowang168)
 [![Sponsor](https://img.shields.io/badge/GitHub%20Sponsors-sponsor-ea4aaa?style=flat-square&logo=github-sponsors)](https://github.com/sponsors/bowang168)
 
-**Principal Technical Support Engineer** at Oracle New Zealand, based in Auckland.
+**Senior Linux Infrastructure Engineer** based in Auckland, New Zealand.
 
-I started my career with a degree in English, then taught myself IT — earning RHCE, CCNP, and PMP certifications along the way. I've worked at IBM, Oracle China, HSBC, and now Oracle NZ, specializing in cloud infrastructure, Linux systems, and networking.
+I started my career with a degree in English, then taught myself IT — earning RHCE, CCNP, and PMP certifications along the way. I specialize in cloud infrastructure, Linux systems, and networking, with 17 years of enterprise IT experience.
 
 ## Tech Stack
 
